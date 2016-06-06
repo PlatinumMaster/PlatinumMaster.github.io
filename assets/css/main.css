@@ -3194,7 +3194,6 @@
 					letter-spacing: 0.225em;
 					outline: 0;
 					text-decoration: none;
-					text-transform: uppercase;
 				}
 
 					@media screen and (max-width: 736px) {
@@ -3314,7 +3313,6 @@
 						font-size: 0.8em;
 						letter-spacing: 0.225em;
 						padding: 0 1.5em;
-						text-transform: uppercase;
 					}
 
 						#header nav > ul > li > a.menuToggle {
@@ -3471,7 +3469,6 @@
 			padding-left: 0.225em;
 			position: absolute;
 			text-align: center;
-			text-transform: uppercase;
 			width: 16em;
 			z-index: 1;
 		}
